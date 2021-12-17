@@ -1,3 +1,4 @@
+/* universal settings */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -127,7 +128,7 @@ footer {
 }
 
 /* Identifier Selectors */
-/* converted these classes into identifiers for the purpose of the navigator to work */
+/* converted these classes into identifiers for navigator to redirect user to section*/
 #search-engine-optimization,
 #online-reputation-management,
 #social-media-marketing {
